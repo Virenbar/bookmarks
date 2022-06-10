@@ -3,7 +3,6 @@
 ## Text Editors
 
 * [Sublime](https://www.sublimetext.com/)
-* [Atom](https://atom.io/)
 * [Brackets](http://brackets.io/)
 * [ImHex](https://github.com/WerWolv/ImHex)  
  🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
@@ -34,18 +33,18 @@ clumsy makes your network condition on Windows significantly worse, but in a man
 
 ## CMS
 
-* WordPress
-* Joomla
+* [WordPress](https://wordpress.com/)
+* [Joomla](https://www.joomla.org/)
 * [Webasyst](https://www.webasyst.com/)
 
 ## Streaming
 
 * [Moonlight](https://moonlight-stream.com/)  
 Simple, Low-latency Game Streaming
-* [Parsec](https://parsecgaming.com/)
+* ~~[Parsec](https://parsecgaming.com/)~~ **GBL**
 
 ## VPN/!DPI
-
+* [Open VPN](https://openvpn.net/community-downloads/)
 * [Pritunl Client](https://client.pritunl.com/#install)  
 Open Source OpenVPN Client
 * [WireGuard](https://www.wireguard.com/)  
