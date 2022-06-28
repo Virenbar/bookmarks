@@ -26,16 +26,28 @@
 
 ## .NET
 
+* [MQTTnet](https://github.com/dotnet/MQTTnet)
+
 ## SQL
+
+### MS SQL
 
 * [TSQL](/TSQL.md)
 * [SSMSBoost](https://www.ssmsboost.com/) *[Free](https://gist.github.com/Virenbar/f971da9557734a457734a55a2428a9a9)*
-* [dbForge Studio for MySQL](https://www.devart.com/dbforge/mysql/studio/)
+* ~~[dbForge Studio for MySQL](https://www.devart.com/dbforge/mysql/studio/)~~ **GBL**
+
+### MySQL/MariaDB
+
+* [DBeaver](https://dbeaver.io/)
+* [HeidiSQL](https://www.heidisql.com/)
+
+[Other](https://mariadb.com/kb/en/graphical-and-enhanced-clients/)
 
 ## Statis Sites
 
 * [Jekyll](/Jekyll.md)
 * [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
+* [HUGO](https://gohugo.io/)
 
 ## Icons
 
