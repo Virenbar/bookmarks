@@ -53,7 +53,9 @@ WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-
 Tray control for GoodbyeDPI
 
 ## Music/Sound
-
+* [Spotify Release List](https://spotifyreleaselist.netlify.app/)
+* [Exportify](https://watsonbox.github.io/exportify/)
+* [Spotify Downloader](https://www.spotifydownloader.co/)
 * [MusicBrainz Picard](https://picard.musicbrainz.org/)  
 Music tagger
 
