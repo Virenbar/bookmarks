@@ -17,6 +17,11 @@
 * [Photopea](https://www.photopea.com/)
 * [Gradients.app](https://gradients.app/)
 
+## Video Players
+
+* [MPC-HC](https://github.com/clsid2/mpc-hc)
+* [MPC-BE](https://sourceforge.net/projects/mpcbe/)
+
 ## Video Editors
 
 * [Shotcut](https://shotcut.org/)
