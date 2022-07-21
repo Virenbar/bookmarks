@@ -2,8 +2,10 @@
 
 ## Commands
 
+```text
 bundle install  
 bundle exec jekyll serve --livereload
+```
 
 ## Livereload fix
 
@@ -16,5 +18,4 @@ bundle exec jekyll serve --livereload
 ## Examples
 
 [Build a multilingual website with jekyll](http://chocanto.me/2016/04/16/jekyll-multilingual.html)
-
 [Creating a Multilingual Blog With Jekyll](https://forestry.io/blog/creating-a-multilingual-blog-with-jekyll/)
