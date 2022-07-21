@@ -43,12 +43,6 @@
 
 [Other](https://mariadb.com/kb/en/graphical-and-enhanced-clients/)
 
-## Statis Sites
-
-* [Jekyll](/Jekyll.md)
-* [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
-* [HUGO](https://gohugo.io/)
-
 ## Icons
 
 * [Icons8](https://icons8.com/icons/color)
@@ -69,3 +63,14 @@
 
 * [Colors Class (System.Windows.Media)](https://docs.microsoft.com/en-us/dotnet/api/system.windows.media.colors)
 * [Status Colors](https://coolors.co/9ea7ad-2dccff-56f000-fce83a-ffb302-ff0000)
+
+## WEB
+
+* [Bootstrap](https://getbootstrap.com/)
+* [Bootswatch](https://bootswatch.com/)
+
+### Statis Sites
+
+* [Jekyll](/Jekyll.md)
+* [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
+* [HUGO](https://gohugo.io/)
