@@ -17,6 +17,11 @@
 * [Photopea](https://www.photopea.com/)
 * [Gradients.app](https://gradients.app/)
 
+## Video Players
+
+* [MPC-HC](https://github.com/clsid2/mpc-hc)
+* [MPC-BE](https://sourceforge.net/projects/mpcbe/)
+
 ## Video Editors
 
 * [Shotcut](https://shotcut.org/)
@@ -53,7 +58,9 @@ WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-
 Tray control for GoodbyeDPI
 
 ## Music/Sound
-
+* [Spotify Release List](https://spotifyreleaselist.netlify.app/)
+* [Exportify](https://watsonbox.github.io/exportify/)
+* [Spotify Downloader](https://www.spotifydownloader.co/)
 * [MusicBrainz Picard](https://picard.musicbrainz.org/)  
 Music tagger
 
