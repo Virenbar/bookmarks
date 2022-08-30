@@ -5,7 +5,7 @@
 * [Sublime](https://www.sublimetext.com/)
 * [Brackets](http://brackets.io/)
 * [ImHex](https://github.com/WerWolv/ImHex)  
- 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
+🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 
 ## Graphics Editors
 
@@ -49,6 +49,7 @@ Simple, Low-latency Game Streaming
 * ~~[Parsec](https://parsecgaming.com/)~~ **GBL**
 
 ## VPN/!DPI
+
 * [Open VPN](https://openvpn.net/community-downloads/)
 * [Pritunl Client](https://client.pritunl.com/#install)  
 Open Source OpenVPN Client
@@ -58,6 +59,7 @@ WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-
 Tray control for GoodbyeDPI
 
 ## Music/Sound
+
 * [Spotify Release List](https://spotifyreleaselist.netlify.app/)
 * [Exportify](https://watsonbox.github.io/exportify/)
 * [Spotify Downloader](https://www.spotifydownloader.co/)

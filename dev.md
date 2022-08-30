@@ -1,5 +1,9 @@
 # Development Resources
 
+## [.NET](./net.md)
+
+## [JS/TS](./js-ts.md)
+
 ## Development playgrounds
 
 * [Codepen](https://codepen.io/pen/)
@@ -13,20 +17,6 @@
 * [Azure DevOps](https://dev.azure.com/)
 * [Codacy](https://app.codacy.com/)
 * [GitGuardian](https://dashboard.gitguardian.com/)
-
-## JS/TS
-
-* [Discord.js](/discord.js.md)
-* [Sequelize](https://sequelize.org/)
-* [Prisma](https://www.prisma.io/)
-* [GameDig](https://www.npmjs.com/package/gamedig)
-* [Steam Server Query](https://www.npmjs.com/package/steam-server-query)
-
-[NodeJS on Windows 7](https://stackoverflow.com/questions/62212754/nodejs-for-windows-7)
-
-## .NET
-
-* [MQTTnet](https://github.com/dotnet/MQTTnet)
 
 ## SQL
 
