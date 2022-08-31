@@ -4,6 +4,7 @@
 
 ### NuGet
 
+* [APICodePack-Shell](https://www.nuget.org/packages/WindowsAPICodePack-Shell/#readme-body-tab)
 * [CredentialManagement](https://www.nuget.org/packages/CredentialManagement/)
 * [DataConnectionDialog](https://www.nuget.org/packages/DataConnectionDialog/1.2)
 * [DG.AdvancedDataGridView](https://www.nuget.org/packages/DG.AdvancedDataGridView)
@@ -28,7 +29,8 @@ MQTTnet is a high performance .NET library for MQTT based communication. It prov
 
 ## Documentation
 
-[DataColumn.Expression Property (System.Data)](https://docs.microsoft.com/en-us/dotnet/api/system.data.datacolumn.expression?view=netframework-4.8)
+* [Colors Class](https://docs.microsoft.com/en-us/dotnet/api/system.windows.media.colors?view=netframework-4.8)
+* [DataColumn.Expression Property (System.Data)](https://docs.microsoft.com/en-us/dotnet/api/system.data.datacolumn.expression?view=netframework-4.8)
 
 ## Examples
 
