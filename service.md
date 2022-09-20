@@ -9,3 +9,12 @@
 ## Other
 
 * [OnlineStringTools](https://onlinestringtools.com/)
+
+### JSON
+
+* [JSON Compare](https://www.jsondiff.com/)
+* [JSON to Code](https://quicktype.io/)
+
+### Discord
+
+* [Embed Builder](https://autocode.com/tools/discord/embed-builder/)
