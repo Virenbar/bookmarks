@@ -58,6 +58,9 @@
 
 * [Bootstrap](https://getbootstrap.com/)
 * [Bootswatch](https://bootswatch.com/)
+* [NuxtJS](https://nuxtjs.org/)
+* [Parcel](https://parceljs.org/)
+* [Preact](https://preactjs.com/)
 
 ### Statis Sites
 

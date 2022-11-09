@@ -1,5 +1,12 @@
 # Software
 
+## File Viewers
+
+* [ImageGlass](https://github.com/d2phap/ImageGlass)  
+A lightweight, versatile image viewer
+* [QuickLook](https://github.com/QL-Win/QuickLook)  
+“Quick Look” feature for Windows
+
 ## Text Editors
 
 * [Sublime](https://www.sublimetext.com/)

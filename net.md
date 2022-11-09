@@ -12,6 +12,9 @@
 * [Serilog](https://www.nuget.org/packages/Serilog/)
 * [Lib.Harmony](https://www.nuget.org/packages/lib.harmony)
 * [Knapcode.TorSharp](https://www.nuget.org/packages/Knapcode.TorSharp)
+* [Spectre.Console](https://www.nuget.org/packages/spectre.console)
+* [SixLabors.ImageSharp](https://www.nuget.org/packages/SixLabors.ImageSharp/)
+* [System.CommandLine](https://www.nuget.org/packages/System.CommandLine)
 
 ### GitHub
 
