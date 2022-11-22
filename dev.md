@@ -37,14 +37,15 @@
 
 ## Icons
 
-* [Icons8](https://icons8.com/icons/color)
-* [Коллекция иконок для 1С (60000 шт.)](https://infostart.ru/public/159401/)
-* [Images and Icons for Visual Studio](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2015/extensibility/ux-guidelines/images-and-icons-for-visual-studio?view=vs-2015)
-* [p.yusukekamiyamane - Free stock icons + pixel fonts](https://p.yusukekamiyamane.com/)
 * [Crystal Project icons](https://www.iconfinder.com/iconsets/crystalproject)
 * [Gnome icons](https://www.iconfinder.com/iconsets/gnomeicontheme)
+* [Icons8](https://icons8.com/icons/color)
+* [Images and Icons for Visual Studio](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2015/extensibility/ux-guidelines/images-and-icons-for-visual-studio?view=vs-2015)
 * [Koloria icons](https://www.iconfinder.com/iconsets/Koloria-Icon-Set)
 * [Momentum Matte icons](https://www.iconfinder.com/iconsets/Momentum_MatteEntireSet)
+* [SILK ICONS](http://www.famfamfam.com/lab/icons/silk/)
+* [p.yusukekamiyamane - Free stock icons + pixel fonts](https://p.yusukekamiyamane.com/)
+* [Коллекция иконок для 1С (60000 шт.)](https://infostart.ru/public/159401/)
 
 ### Tools
 
