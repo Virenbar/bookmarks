@@ -8,6 +8,8 @@
 
 * [Codepen](https://codepen.io/pen/)
 * [Replit](https://replit.com/)
+* [SharpLab](https://sharplab.io/)  
+  .NET language playground
 * ~~[JSFiddle](https://jsfiddle.net/)~~ **GBL**
 
 [More here](https://github.com/d-akara/development-resources#development-playgrounds/)
