@@ -67,9 +67,8 @@
 
 ## Music/Sound
 
-* [Spotify Release List](https://spotifyreleaselist.netlify.app/)
-* [Exportify](https://watsonbox.github.io/exportify/)
-* [Spotify Downloader](https://www.spotifydownloader.co/)
+* [Bandcamp Downloader](https://github.com/Otiel/BandcampDownloader)
+* [spotDL](https://github.com/spotDL/spotify-downloader)
 * [MusicBrainz Picard](https://picard.musicbrainz.org/)  
   Music tagger
 
@@ -122,6 +121,7 @@
 
 ## Special
 
+* [Aegis](https://github.com/beemdevelopment/Aegis)
 * [Ratiborus](http://forum.ru-board.com/topic.cgi?forum=2&topic=5734&start=4400)
 * [Lockhunter](https://lockhunter.com/)
 * [Spacedesk](https://www.spacedesk.net/download/)  
