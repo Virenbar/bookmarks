@@ -119,6 +119,11 @@
 * [netboot.xyz](https://github.com/netbootxyz/netboot.xyz)
 * [YUMI](https://www.pendrivelinux.com/yumi-multiboot-usb-creator/)
 
+### RGB
+
+* [SignalRGB](https://signalrgb.com/)
+* [OpenRGB](https://openrgb.org/)
+
 ## Special
 
 * [Aegis](https://github.com/beemdevelopment/Aegis)
