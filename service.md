@@ -28,4 +28,12 @@
 
 ### Discord
 
-* [Embed Builder](https://autocode.com/tools/discord/embed-builder/)
+* [Embed Builder #1](https://glitchii.github.io/embedbuilder/)
+* [Embed Builder #2](https://autocode.com/tools/discord/embed-builder/)
+* [Embed Builder #3](https://discohook.org/)
+* [Embed Builder #4](https://message.style/dashboard)
+* [Embed Builder #5](https://eb.nadeko.bot/)
+* [Embed Builder #6](https://embed.dan.onl/)
+* [Snowflake to Timestamp](https://snowsta.mp/)
+* [Time to Timestamp](https://hammertime.cyou/)
+* [Hex Color to Decimal](https://www.checkyourmath.com/convert/color/hexadecimal_decimal.php)
