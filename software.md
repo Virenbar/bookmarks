@@ -83,8 +83,14 @@
 * [VB-Audio Virtual Audio cable](http://vb-audio.pagesperso-orange.fr/Cable/index.htm)
 * [Audio Router](https://github.com/audiorouterdev/audio-router)
 
-### Self Hosted Music
+### Self Hosted
 
+* [Jellyfin](https://github.com/jellyfin/jellyfin)
+
+#### Music
+
+* [Navidrome](https://github.com/navidrome/navidrome)  
+  Modern Music Server and Streamer compatible with Subsonic/Airsonic
 * [LMS](https://github.com/epoupon/lms)  
   Lightweight Music Server. Access your self-hosted music using a web interface.
 * [Ampache](https://github.com/ampache/ampache)  
@@ -93,13 +99,13 @@
   The easiest music streaming server available
 * [Roadie](https://github.com/sphildreth/roadie)  
   Music Streaming API Server
-* [Navidrome](https://github.com/navidrome/navidrome)  
-  Modern Music Server and Streamer compatible with Subsonic/Airsonic
 * [Funkwhale](https://funkwhale.audio/)
 * [Airsonic](https://airsonic.github.io/)  
   Airsonic, a Free and Open Source community driven media server (fork of Subsonic and Libresonic)
 * [Polaris](https://github.com/agersant/polaris/)  
   Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device.
+* [Koel](https://github.com/koel/koel)
+  🐦 A personal music streaming server that works.
 
 ## DLNA
 
