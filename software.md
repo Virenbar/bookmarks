@@ -16,38 +16,40 @@
 
 ## Graphics Editors
 
-* [MagicaVoxel](https://ephtracy.github.io/)
-* [Fractron 9000](http://fractron9000.sourceforge.net/index.html)
-* [Graph](https://www.padowan.dk/download/)
-* [GeoGebra](https://www.geogebra.org/?lang=en)
 * [Desmos](https://www.desmos.com/calculator)
-* [Photopea](https://www.photopea.com/)
+* [Fractron 9000](http://fractron9000.sourceforge.net/index.html)
+* [GeoGebra](https://www.geogebra.org/?lang=en)
 * [Gradients.app](https://gradients.app/)
+* [Graph](https://www.padowan.dk/download/)
+* [MagicaVoxel](https://ephtracy.github.io/)
+* [Photopea](https://www.photopea.com/)
 
 ## Video Players
 
-* [MPC-HC](https://github.com/clsid2/mpc-hc)
 * [MPC-BE](https://sourceforge.net/projects/mpcbe/)
+* [MPC-HC](https://github.com/clsid2/mpc-hc)
 
 ## Video Editors
 
-* [Shotcut](https://shotcut.org/)
-* [Openshot](https://openshot.org/)
 * [DaVinci Resolve 15](https://www.blackmagicdesign.com/products/davinciresolve)
 * [HandBrake](https://handbrake.fr/)
+* [Openshot](https://openshot.org/)
+* [Shotcut](https://shotcut.org/)
 
 ## Network
 
-* [winmtr](http://winmtr.net/)
 * [clumsy](https://jagt.github.io/clumsy/index.html)  
   clumsy makes your network condition on Windows significantly worse, but in a managed and interactive manner.
 * [pingplotter](https://www.pingplotter.com/)
+* [portmaster](https://github.com/safing/portmaster)
+* [simplewall](https://github.com/henrypp/simplewall)
+* [winmtr](http://winmtr.net/)
 
 ## CMS
 
-* [WordPress](https://wordpress.com/)
 * [Joomla](https://www.joomla.org/)
 * [Webasyst](https://www.webasyst.com/)
+* [WordPress](https://wordpress.com/)
 
 ## Streaming
 
@@ -79,9 +81,9 @@
 
 ### Virtual Audio
 
-* [VB-Audio Voice Meter](http://www.vb-audio.com/Voicemeeter/index.htm)
-* [VB-Audio Virtual Audio cable](http://vb-audio.pagesperso-orange.fr/Cable/index.htm)
 * [Audio Router](https://github.com/audiorouterdev/audio-router)
+* [VB-Audio Virtual Audio cable](http://vb-audio.pagesperso-orange.fr/Cable/index.htm)
+* [VB-Audio Voice Meter](http://www.vb-audio.com/Voicemeeter/index.htm)
 
 ### Self Hosted
 
@@ -129,6 +131,11 @@
 
 * [SignalRGB](https://signalrgb.com/)
 * [OpenRGB](https://openrgb.org/)
+
+## Customization
+
+* [lively](https://github.com/rocksdanister/lively)
+* [rainmeter](https://github.com/rainmeter/rainmeter)
 
 ## Special
 

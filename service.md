@@ -9,13 +9,14 @@
 ## Music
 
 * [Exportify](https://watsonbox.github.io/exportify/)
-* [SpotifyDown](https://spotifydown.com/ru)
 * [Spotify Album Availability](https://kaaes.github.io/albums-availability/)
 * [Spotify Release List](https://spotifyreleaselist.netlify.app/)
+* [SpotifyDown](https://spotifydown.com/ru)
 * ~~[Spotify Downloader](https://www.spotifydownloader.co/)~~
 
 ## Other
 
+* [CyberChef](https://gchq.github.io/CyberChef)
 * [OnlineStringTools](https://onlinestringtools.com/)
 * [QuickInfo](https://quickinfo.io/)
 * [SharpLab](https://sharplab.io/)
