@@ -14,15 +14,15 @@
 * [ImHex](https://github.com/WerWolv/ImHex)  
   🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 
-## Graphics Editors
+## Image Editors
 
-* [Desmos](https://www.desmos.com/calculator)
-* [Fractron 9000](http://fractron9000.sourceforge.net/index.html)
-* [GeoGebra](https://www.geogebra.org/?lang=en)
-* [Gradients.app](https://gradients.app/)
-* [Graph](https://www.padowan.dk/download/)
-* [MagicaVoxel](https://ephtracy.github.io/)
 * [Photopea](https://www.photopea.com/)
+* [PhotoScape](http://www.photoscape.org/ps/main/index.php)  
+  Split images
+* [PNGGauntlet](https://pnggauntlet.com/)  
+  png compression
+* [Xpdf and XpdfReader](http://www.xpdfreader.com/download.html)  
+  PDF to images
 
 ## Video Players
 
@@ -36,14 +36,31 @@
 * [Openshot](https://openshot.org/)
 * [Shotcut](https://shotcut.org/)
 
+## Graphics Editors
+
+* [Desmos](https://www.desmos.com/calculator)
+* [Fractron 9000](http://fractron9000.sourceforge.net/index.html)
+* [GeoGebra](https://www.geogebra.org/?lang=en)
+* [Gradients.app](https://gradients.app/)
+* [Graph](https://www.padowan.dk/download/)
+* [MagicaVoxel](https://ephtracy.github.io/)
+
 ## Network
 
 * [clumsy](https://jagt.github.io/clumsy/index.html)  
   clumsy makes your network condition on Windows significantly worse, but in a managed and interactive manner.
 * [pingplotter](https://www.pingplotter.com/)
 * [portmaster](https://github.com/safing/portmaster)
+* [simple-http-server](https://github.com/TheWaWaR/simple-http-server)
 * [simplewall](https://github.com/henrypp/simplewall)
 * [winmtr](http://winmtr.net/)
+
+### DLNA
+
+* [Gerbera: UPnP Media Server for 2022](https://github.com/gerbera/gerbera)  
+  Stream your digital media through your home network and consume it on all kinds of UPnP supporting devices 📱💻📺
+* [ReadyMedia](https://sourceforge.net/projects/minidlna/)  
+  ReadyMedia (formerly known as MiniDLNA) is a simple media server software, with the aim of being fully compliant with DLNA/UPnP-AV clients.
 
 ## CMS
 
@@ -82,6 +99,7 @@
 ### Virtual Audio
 
 * [Audio Router](https://github.com/audiorouterdev/audio-router)
+* [Equalizer APO](https://sourceforge.net/projects/equalizerapo/)
 * [VB-Audio Virtual Audio cable](http://vb-audio.pagesperso-orange.fr/Cable/index.htm)
 * [VB-Audio Voice Meter](http://www.vb-audio.com/Voicemeeter/index.htm)
 
@@ -109,33 +127,28 @@
 * [Koel](https://github.com/koel/koel)
   🐦 A personal music streaming server that works.
 
-## DLNA
-
-* [Gerbera: UPnP Media Server for 2022](https://github.com/gerbera/gerbera)  
-  Stream your digital media through your home network and consume it on all kinds of UPnP supporting devices 📱💻📺
-* [ReadyMedia](https://sourceforge.net/projects/minidlna/)  
-  ReadyMedia (formerly known as MiniDLNA) is a simple media server software, with the aim of being fully compliant with DLNA/UPnP-AV clients.
-
 ## System
 
 * [Memtest86+](https://memtest.org/)
 * [Memtest86](https://www.memtest86.com/memtest86.html)
+* [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD)
 
-### Multiboot USB
+### Customization
 
-* [Ventoy](https://github.com/ventoy/Ventoy)
-* [netboot.xyz](https://github.com/netbootxyz/netboot.xyz)
-* [YUMI](https://www.pendrivelinux.com/yumi-multiboot-usb-creator/)
+* [lively](https://github.com/rocksdanister/lively)
+* [rainmeter](https://github.com/rainmeter/rainmeter)
 
 ### RGB
 
 * [SignalRGB](https://signalrgb.com/)
 * [OpenRGB](https://openrgb.org/)
 
-## Customization
+### Multiboot USB
 
-* [lively](https://github.com/rocksdanister/lively)
-* [rainmeter](https://github.com/rainmeter/rainmeter)
+* [MEDICAT USB](https://medicatusb.com/)
+* [netboot.xyz](https://github.com/netbootxyz/netboot.xyz)
+* [Ventoy](https://github.com/ventoy/Ventoy)
+* [YUMI](https://www.pendrivelinux.com/yumi-multiboot-usb-creator/)
 
 ## Special
 
@@ -166,9 +179,3 @@
 * [SpeedCrunch](https://speedcrunch.org/index.html)
 * [chaoticafractals](https://chaoticafractals.com/)
 * [Mathcha](https://www.mathcha.io/editor)
-* [Xpdf and XpdfReader](http://www.xpdfreader.com/download.html)  
-  PDF to images
-* [PhotoScape](http://www.photoscape.org/ps/main/index.php)  
-  Split images
-* [PNGGauntlet](https://pnggauntlet.com/)  
-  png compression
