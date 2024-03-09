@@ -1,9 +1,8 @@
-# Index
+# [Index](https://github.com/Virenbar/bookmarks/wiki)
 
-* [Software](/software.md)
-* [Online Services](/service.md)
-* [Development Resources](/dev.md)
-* [Regex patterns](/regex.md)
-* [.NET](/net.md)
-* [JS/TS](/js-ts.md)
-  * [discord.js](/discord.js.md)
+* [Software](https://github.com/Virenbar/bookmarks/wiki/Software)
+* [Online Services](https://github.com/Virenbar/bookmarks/wiki/Service)
+* [Development Resources](https://github.com/Virenbar/bookmarks/wiki/Development)
+* [Regular Expression](https://github.com/Virenbar/bookmarks/wiki/Regular-Expression)
+* [.NET](https://github.com/Virenbar/bookmarks/wiki/.NET)
+* [TypeScript](https://github.com/Virenbar/bookmarks/wiki/TypeScript)
